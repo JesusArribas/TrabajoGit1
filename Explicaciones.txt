@@ -3,3 +3,4 @@
 3 Git Status nos dice como esta
 4 Git add lo preparamos para comitear
 5 Deberia haber hecho un push
+6 Mofico
